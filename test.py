@@ -1,0 +1,1 @@
+print("Isso é só um teste".title())
